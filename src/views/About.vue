@@ -21,7 +21,7 @@
     </div>
     <h3
       style="margin-top:55px;"
-    >Sign up to receive information about web development tailored to you?</h3>
+    >Sign up to receive information about web development tailored to you!</h3>
     <router-link to="/signup" class="btn">Try it out today</router-link>
     <Footer />
   </div>

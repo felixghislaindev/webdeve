@@ -5,10 +5,10 @@
         <a href="/about">About</a>
       </li>
       <li>
-        <a href>Sign in</a>
+        <a href="/signin">Sign in</a>
       </li>
       <li>
-        <a href>Sign up</a>
+        <a href="/signup">Sign up</a>
       </li>
     </ul>
   </footer>

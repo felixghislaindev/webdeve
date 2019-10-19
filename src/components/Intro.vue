@@ -5,8 +5,8 @@
         <h1>A news site that works for you</h1>
         <div class="info-section">
           <p class="info-para">
-            DevNews is the free way to get all your latest news about programing all in one place
-            .We are providng you with personalized data based
+            evNews is the freeway to get all your latest news about programming all in one place
+            .We are providing you with personalized web development news based
             on your interest.
           </p>
           <div class="icons">
